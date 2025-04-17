@@ -1,0 +1,12 @@
+hts-cache/
+*.zip
+*.rar
+*.tar
+*.mp4
+*.mov
+*.avi
+*.psd
+*.ai
+*.log
+.DS_Store
+Thumbs.db
