@@ -292,7 +292,7 @@ jQuery(document).ready(function() {
 });
 
 // Fix qode advanced tabs not opening the relevant tag based on hash automatically
-// e.g. https://www.uniwa.gr/e-learning/#tab-sychnes-erotiseis-kai-apantiseis-faq-gia-technika-themata-211
+// e.g. https://www.unipa.gr/e-learning/#tab-sychnes-erotiseis-kai-apantiseis-faq-gia-technika-themata-211
 jQuery(window).load(function() {
     if (window.location.hash.length <= 5) {
         return;
