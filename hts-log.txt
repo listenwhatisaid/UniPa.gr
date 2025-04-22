@@ -1,6 +1,6 @@
 HTTrack3.49-2+htsswf+htsjava launched on Tue, 15 Apr 2025 12:43:37 at https://www.unipa.gr +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
 https://www.unipa.gr
-(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.unipa.gr -O1 "C:\My Web Sites\https___www.uniwa.gr_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.unipa.gr -O1 "C:\My Web Sites\https___www.unipa.gr_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
 
 
@@ -14,13 +14,13 @@ https://www.unipa.grhttps://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
 https://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
-12:46:29	Error: 	"Forbidhttps://www.unipa.grttps://www.uniwa.gr/xmlrpc.php (from https://www.unipa.gr/)
+12:46:29	Error: 	"Forbidhttps://www.unipa.grttps://www.unipa.gr/xmlrpc.php (from https://www.unipa.gr/)
 https://www.unipa.grhttps://www.unipa.gr
 12:46:37	Error: 	"Forbidden" (403) at link https://www.unipa.gr/xmlrpc.php?rsdhttps://www.unipa.grniwa.gr/)https://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
-12:46:38	Error: 	"Not Found" (404) at link https://www.unipa.gr/wp-json/oembedhttps://www.unipa.gr%3A%2F%2Fwww.uniwa.gr%2F (from https://www.unipa.gr/)https://www.unipa.gr
+12:46:38	Error: 	"Not Found" (404) at link https://www.unipa.gr/wp-json/oembedhttps://www.unipa.gr%3A%2F%2Fwww.unipa.gr%2F (from https://www.unipa.gr/)https://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
-12:46:38	Error: 	"Not Found" (404) at link https://www.unipa.gr/wp-json/oembedhttps://www.unipa.gr%3A%2F%2Fwww.uniwa.gr%2F&format=xml (from https://www.unipa.gr/)
+12:46:38	Error: 	"Not Found" (404) at link https://www.unipa.gr/wp-json/oembedhttps://www.unipa.gr%3A%2F%2Fwww.unipa.gr%2F&format=xml (from https://www.unipa.gr/)
 https://www.unipa.grhttps://www.unipa.gr
 12:52:04	Warning: 	Retry after error -4 (https://www.unipa.grclosed)) at link https://www.unipa.gr/spoydes/didaktorikes/ (from https://www.unipa.gr/)
 https://www.unipa.grhttps://www.unipa.gr
@@ -90,7 +90,7 @@ https://www.unipa.grhttps://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
 13:10:46	Warning: 	File has moved from hthttps://www.unipa.grp=37401 to https://www.unipa.gr/to-panepistimio/taytotita/
 https://www.unipa.grhttps://www.unipa.gr
-13:10:46	Warning: 	Retry after error -4 (https://www.unipa.grclosed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fto-panepistimio%2Ftaytotita%2F (from https://www.unipa.gr/to-panepistimio/taytotita/)
+13:10:46	Warning: 	Retry after error -4 (https://www.unipa.grclosed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fto-panepistimio%2Ftaytotita%2F (from https://www.unipa.gr/to-panepistimio/taytotita/)
 https://www.unipa.grhttps://www.unipa.gr
 13:10:46	Warning: 	Moved Permanently for https://www.unipa.gr/?p=36996
 https://www.unipa.grhttps://www.unipa.gr
@@ -104,7 +104,7 @@ https://www.unipa.gr
 https://www.unipa.gr
 13:12:01	Warning: 	File has moved from https://www.unipa.gr/?p=48585 to https://www.unipa.gr/to-panepistimio/dioikisi/sygklitos/
 https://www.unipa.gr
-13:12:01	Warning: 	Retry after error -4https://www.unipa.grn closed)) athttps://www.unipa.griwa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fto-panepistimio%2Fdioikisi%2Fsygklitos%2F (from https://www.unipa.gr/to-panepistimio/dioikisi/sygklitos/)
+13:12:01	Warning: 	Retry after error -4https://www.unipa.grn closed)) athttps://www.unipa.griwa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fto-panepistimio%2Fdioikisi%2Fsygklitos%2F (from https://www.unipa.gr/to-panepistimio/dioikisi/sygklitos/)
 https://www.unipa.gr
 13:13:48	Warning: 	Moved Permanently fohttps://www.unipa.grgr/?p=38097https://www.unipa.gr
 https://www.unipa.gr
@@ -114,7 +114,7 @@ https://www.unipa.gr
 https://www.unipa.gr
 13:13:48	Warning: 	File has moved from https://www.unipa.gr/?p=38103 to https://www.unipa.gr/to-panepistimio/dioikisi/panepistimiaka-organa/
 https://www.unipa.gr
-13:13:49	Warning: 	Retry after error -4https://www.unipa.grn closed)) at link https://www.unipa.gr/whttps://www.unipa.grbed?url=https%3A%2F%2Fwww.uniwa.gr%2Fto-panepistimio%2Fdioikisi%2Fpanepistimiaka-organa%2F (from https://www.unipa.gr/to-panepistimio/dioikisi/panepistimiaka-organa/)
+13:13:49	Warning: 	Retry after error -4https://www.unipa.grn closed)) at link https://www.unipa.gr/whttps://www.unipa.grbed?url=https%3A%2F%2Fwww.unipa.gr%2Fto-panepistimio%2Fdioikisi%2Fpanepistimiaka-organa%2F (from https://www.unipa.gr/to-panepistimio/dioikisi/panepistimiaka-organa/)
 https://www.unipa.grhttps://www.unipa.gr
 13:13:49	Warning: 	Moved Permanently for https://www.unipa.gr/?p=83903
 https://www.unipa.grhttps://www.unipa.gr
@@ -184,7 +184,7 @@ https://www.unipa.grhttps://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
 13:24:01	Warning: 	Moved Permanently for https://www.unipa.gr/?p=48777
 https://www.unipa.grhttps://www.unipa.gr
-13:24:01	Warning: 	File https://www.unipa.gr://www.uniwa.gr/?p=48777 to https://www.unipa.gr/to-panepistimio/diethneis-scheseis/
+13:24:01	Warning: 	File https://www.unipa.gr://www.unipa.gr/?p=48777 to https://www.unipa.gr/to-panepistimio/diethneis-scheseis/
 https://www.unipa.grhttps://www.unipa.gr
 13:24:01	Warning: 	Moved Permanently for https://www.unipa.gr/?p=48780https://www.unipa.grhttps://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
@@ -196,19 +196,19 @@ https://www.unipa.grhttps://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
 13:24:01	Warning: 	File has moved from https://www.unipa.gr/?p=40775 to https:https://www.unipa.grnepistimio/optiki-taytotita/https://www.unipa.gr
 https://www.unipa.gr
-13:24:01	Warning: 	Movedhttps://www.unipa.grps://www.uniwa.gr/optiki-taytotita/meros-2o/
+13:24:01	Warning: 	Movedhttps://www.unipa.grps://www.unipa.gr/optiki-taytotita/meros-2o/
 https://www.unipa.gr
-13:24:01	Warning: 	File https://www.unipa.gr://www.uniwa.gr/optiki-taytotita/meros-2o/ to https://www.unipa.gr/to-panepistimio/optiki-taytotita/meros-2o/
+13:24:01	Warning: 	File https://www.unipa.gr://www.unipa.gr/optiki-taytotita/meros-2o/ to https://www.unipa.gr/to-panepistimio/optiki-taytotita/meros-2o/
 https://www.unipa.gr
-13:24:02	Warning: 	Movedhttps://www.unipa.grps://www.uniwa.gr/?p=59407
+13:24:02	Warning: 	Movedhttps://www.unipa.grps://www.unipa.gr/?p=59407
 https://www.unipa.gr
-13:24:02	Warning: 	File https://www.unipa.gr://www.uniwa.gr/?p=59407 to https://www.unipa.gr/to-panepistimio/paroysiasi-pada-2020/
+13:24:02	Warning: 	File https://www.unipa.gr://www.unipa.gr/?p=59407 to https://www.unipa.gr/to-panepistimio/paroysiasi-pada-2020/
 https://www.unipa.gr
-13:24:02	Warning: 	Movedhttps://www.unipa.grps://www.uniwa.gr/?p=66461
+13:24:02	Warning: 	Movedhttps://www.unipa.grps://www.unipa.gr/?p=66461
 https://www.unipa.gr
-13:24:02	Warning: 	File https://www.unipa.gr://www.uniwa.gr/?p=66461 to https://www.unipa.gr/to-panepistimio/odigos-prosvasis-sto-panepistimio-dytikis-attikis/
+13:24:02	Warning: 	File https://www.unipa.gr://www.unipa.gr/?p=66461 to https://www.unipa.gr/to-panepistimio/odigos-prosvasis-sto-panepistimio-dytikis-attikis/
 https://www.unipa.grhttps://www.unipa.gr
-13:24:02	Warning: 	Movedhttps://www.unipa.grps://www.uniwa.gr/?p=61228
+13:24:02	Warning: 	Movedhttps://www.unipa.grps://www.unipa.gr/?p=61228
 https://www.unipa.grhttps://www.unipa.gr
 13:24:02	Warning: 	File has moved from https://www.unipa.gr/?p=61228 to https:https://www.unipa.grnepistimio/politikes-kanonismoi-diadikasies/https://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
@@ -220,9 +220,9 @@ https://www.unipa.grhttps://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
 13:24:08	Warning: 	File has moved from https://www.unipa.gr/to-panepistimio/pohttps://www.unipa.griktis-prosvasis-toy-panepistimioy-dytikis-attikis/ to https:/https://www.unipa.grepistimio/politikes-kanonismoi-diadikasies/politiki-anoiktis-prosvasis-toy-panepistimioy-dytikis-attikis/
 https://www.unipa.grhttps://www.unipa.gr
-13:24:12	Warning: 	Movedhttps://www.unipa.grps://www.uniwa.gr/to-panepistimio/politikes/politiki-gia-ta-prosopika-dedomena-stis-ex-apostaseos-exetaseis/
+13:24:12	Warning: 	Movedhttps://www.unipa.grps://www.unipa.gr/to-panepistimio/politikes/politiki-gia-ta-prosopika-dedomena-stis-ex-apostaseos-exetaseis/
 https://www.unipa.gr
-13:24:12	Warning: 	File https://www.unipa.gr://www.uniwa.gr/to-panepistimio/politikes/politiki-gia-ta-prosopika-dedomena-stis-ex-apostaseos-exetaseis/ to https://www.unipa.gr/to-panepistimio/politikes-kanonismoi-diadikasies/politiki-gia-ta-prosopika-dedomena-stis-ex-apostaseos-exetaseis/
+13:24:12	Warning: 	File https://www.unipa.gr://www.unipa.gr/to-panepistimio/politikes/politiki-gia-ta-prosopika-dedomena-stis-ex-apostaseos-exetaseis/ to https://www.unipa.gr/to-panepistimio/politikes-kanonismoi-diadikasies/politiki-gia-ta-prosopika-dedomena-stis-ex-apostaseos-exetaseis/
 https://www.unipa.gr
 13:24:12	Warning: 	Moved Permanently for https://www.unipa.gr/?p=58630https://www.unipa.grhttps://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
@@ -236,7 +236,7 @@ https://www.unipa.grhttps://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
 13:24:12	Warning: 	Moved Permanently for https://www.unipa.gr/viosimi-anaptyxihttps://www.unipa.grhttps://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
-13:24:12	Warning: 	File https://www.unipa.gr://www.uniwa.gr/viosimi-anaptyxi/diacheirisi-neroy/ to https://www.unipa.gr/to-panepistimio/viosimi-anaptyxi/diacheirisi-neroy/
+13:24:12	Warning: 	File https://www.unipa.gr://www.unipa.gr/viosimi-anaptyxi/diacheirisi-neroy/ to https://www.unipa.gr/to-panepistimio/viosimi-anaptyxi/diacheirisi-neroy/
 https://www.unipa.grhttps://www.unipa.gr
 13:24:13	Warning: 	Moved Permanently for https://www.unipa.gr/viosimi-anaptyxihttps://www.unipa.gromi/https://www.unipa.gr
 https://www.unipa.gr
@@ -260,7 +260,7 @@ https://www.unipa.grhttps://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
 13:26:41	Warning: 	File has moved from hthttps://www.unipa.grp=51538 to https://www.unipa.gr/spoydes/metaptychiakes/
 https://www.unipa.grhttps://www.unipa.gr
-13:26:41	Warning: 	Retry after error -4 (https://www.unipa.grclosed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fspoydes%2Fmetaptychiakes%2F (from https://www.unipa.gr/spoydes/metaptychiakes/)
+13:26:41	Warning: 	Retry after error -4 (https://www.unipa.grclosed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fspoydes%2Fmetaptychiakes%2F (from https://www.unipa.gr/spoydes/metaptychiakes/)
 https://www.unipa.grhttps://www.unipa.gr
 13:26:47	Warning: 	Moved Permanently for https://www.unipa.gr/?p=61955
 https://www.unipa.grhttps://www.unipa.gr
@@ -478,7 +478,7 @@ https://www.unipa.grhttps://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
 13:38:01	Warning: 	Retry after error -4 (https://www.unipa.grclosed)) at link https://www.unipa.gr/category/prokiryxeis-diagonismon/page/4/ (from https://www.unipa.gr/category/prokiryxeis-diagonismon/)
 https://www.unipa.grhttps://www.unipa.gr
-13:38:01	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/category/prokiryxeis-diagonismonhttps://www.unipa.gr://www.uniwa.gr/category/prokiryxeis-diagonismon/)
+13:38:01	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/category/prokiryxeis-diagonismonhttps://www.unipa.gr://www.unipa.gr/category/prokiryxeis-diagonismon/)
 https://www.unipa.gr
 13:38:01	Warning: 	Link https://www.unihttps://www.unipa.grryxeis-diagonhttps://www.unipa.granned (follow robots meta tag)
 https://www.unipa.grhttps://www.unipa.gr
@@ -508,7 +508,7 @@ https://www.unipa.gr
 https://www.unipa.gr
 13:42:44	Warning: 	File has moved from https://www.unipa.gr/?p=85187 to https://www.unipa.gr/exypnes-epiloges-sto-michanografiko-toy-2024/
 https://www.unipa.gr
-13:42:44	Warning: 	Retry after error -4https://www.unipa.grn closed)) athttps://www.unipa.griwa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fexypnes-epiloges-sto-michanografiko-toy-2024%2F (from https://www.unipa.gr/exypnes-epiloges-sto-michanografiko-toy-2024/)
+13:42:44	Warning: 	Retry after error -4https://www.unipa.grn closed)) athttps://www.unipa.griwa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fexypnes-epiloges-sto-michanografiko-toy-2024%2F (from https://www.unipa.gr/exypnes-epiloges-sto-michanografiko-toy-2024/)
 https://www.unipa.gr
 13:42:44	Warning: 	Moved Permanently fohttps://www.unipa.grgr/?p=80126https://www.unipa.gr
 https://www.unipa.gr
@@ -546,7 +546,7 @@ https://www.unipa.grhttps://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
 13:43:08	Warning: 	Retry after error -4 (https://www.unipa.grclosed)) at link https://www.unipa.gr/?p=86248 (from https://www.unipa.gr/announcements/prosklisi-ekdilosis-endiaferontos-gia-ypovoli-aitiseon-apo-neoys-epistimones-katochoys-didaktorikoy-sto-plaisio-ylopoiisis-tis-praxis-apoktisi-akadimaikis-didaktikis-empeirias-se-neoys-epistimon-2/)
 https://www.unipa.grhttps://www.unipa.gr
-13:43:09	Warning: 	Retry after error -4 (https://www.unipa.grclosed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fannouncements%2Fprosklisi-ekdilosis-endiaferontos-gia-ypovoli-aitiseon-apo-neoys-epistimones-katochoys-didaktorikoy-sto-plaisio-ylopoiisis-tis-praxis-apoktisi-akadimaikis-didaktikis-empeirias-se-neoys-epistimon-2%2F (from https://www.unipa.gr/announcements/prosklisi-ekdilosis-endiaferontos-gia-ypovoli-aitiseon-apo-neoys-epistimones-katochoys-didaktorikoy-sto-plaisio-ylopoiisis-tis-praxis-apoktisi-akadimaikis-didaktikis-empeirias-se-neoys-epistimon-2/)
+13:43:09	Warning: 	Retry after error -4 (https://www.unipa.grclosed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fannouncements%2Fprosklisi-ekdilosis-endiaferontos-gia-ypovoli-aitiseon-apo-neoys-epistimones-katochoys-didaktorikoy-sto-plaisio-ylopoiisis-tis-praxis-apoktisi-akadimaikis-didaktikis-empeirias-se-neoys-epistimon-2%2F (from https://www.unipa.gr/announcements/prosklisi-ekdilosis-endiaferontos-gia-ypovoli-aitiseon-apo-neoys-epistimones-katochoys-didaktorikoy-sto-plaisio-ylopoiisis-tis-praxis-apoktisi-akadimaikis-didaktikis-empeirias-se-neoys-epistimon-2/)
 https://www.unipa.grhttps://www.unipa.gr
 13:43:09	Warning: 	Moved Permanently for https://www.unipa.gr/?p=55951
 https://www.unipa.grhttps://www.unipa.gr
@@ -594,7 +594,7 @@ https://www.unipa.grhttps://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
 13:43:31	Warning: 	Retry after error -4 (https://www.unipa.grclosed)) at link https://www.unipa.gr/?p=78653 (from https://www.unipa.gr/event/symmetochi-tis-theatrikis-omadas-toy-panepistimioy-dytikis-attikis-to-trito-koydoyni-stin-17i-diethnis-panepistimiada-foititikoy-theatroy-me-to-ergo-poly-kako-gia-to-tipota/)
 https://www.unipa.grhttps://www.unipa.gr
-13:43:31	Warning: 	Retry after error -4 (https://www.unipa.grclosed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fevent%2Fsymmetochi-tis-theatrikis-omadas-toy-panepistimioy-dytikis-attikis-to-trito-koydoyni-stin-17i-diethnis-panepistimiada-foititikoy-theatroy-me-to-ergo-poly-kako-gia-to-tipota%2F (from https://www.unipa.gr/event/symmetochi-tis-theatrikis-omadas-toy-panepistimioy-dytikis-attikis-to-trito-koydoyni-stin-17i-diethnis-panepistimiada-foititikoy-theatroy-me-to-ergo-poly-kako-gia-to-tipota/)
+13:43:31	Warning: 	Retry after error -4 (https://www.unipa.grclosed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fevent%2Fsymmetochi-tis-theatrikis-omadas-toy-panepistimioy-dytikis-attikis-to-trito-koydoyni-stin-17i-diethnis-panepistimiada-foititikoy-theatroy-me-to-ergo-poly-kako-gia-to-tipota%2F (from https://www.unipa.gr/event/symmetochi-tis-theatrikis-omadas-toy-panepistimioy-dytikis-attikis-to-trito-koydoyni-stin-17i-diethnis-panepistimiada-foititikoy-theatroy-me-to-ergo-poly-kako-gia-to-tipota/)
 https://www.unipa.grhttps://www.unipa.gr
 13:43:46	Warning: 	Moved Permanently for https://www.unipa.gr/?p=77762
 https://www.unipa.grhttps://www.unipa.gr
@@ -726,7 +726,7 @@ https://www.unipa.grhttps://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
 13:48:11	Warning: 	Moved Permanently for https://www.uniwhttps://www.unipa.grhttps://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
-13:48:11	Warning: 	File has moved from https://www.uniwa.https://www.unipa.gr://www.uniwa.gr/spoydes/scholes-kai-tmimata/feng/https://www.unipa.gr
+13:48:11	Warning: 	File has moved from https://www.uniwa.https://www.unipa.gr://www.unipa.gr/spoydes/scholes-kai-tmimata/feng/https://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
 13:48:16	Warning: 	Moved Permanently for https://www.uniwhttps://www.unipa.grhttps://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
@@ -734,7 +734,7 @@ https://www.unipa.grhttps://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
 13:48:16	Warning: 	Moved Permanently for https://www.unipa.gr/?p=42837https://www.unipa.grhttps://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
-13:48:16	Warning: 	File has moved from https://www.uniwa.https://www.unipa.gr://www.uniwa.gr/en/staff/https://www.unipa.gr
+13:48:16	Warning: 	File has moved from https://www.uniwa.https://www.unipa.gr://www.unipa.gr/en/staff/https://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
 13:48:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/?p=42252 (from https://www.unipa.gr/en/the-university/)https://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
@@ -964,17 +964,17 @@ https://www.unipa.grhttps://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
 13:49:06	Warning: 	File has moved from https://www.unipa.gr/?p=https://www.unipa.gr.uniwa.gr/remote-exams/https://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
-13:49:06	Warning: 	Retry after error -4 (No data (connection clhttps://www.unipa.gr://www.uniwa.gr/https://www.unipa.grmbed?url=https%3A%2F%2Fwww.uniwa.gr%2Fremote-exams%2F (from https://www.unipa.gr/remote-exams/)
+13:49:06	Warning: 	Retry after error -4 (No data (connection clhttps://www.unipa.gr://www.unipa.gr/https://www.unipa.grmbed?url=https%3A%2F%2Fwww.unipa.gr%2Fremote-exams%2F (from https://www.unipa.gr/remote-exams/)
 https://www.unipa.grhttps://www.unipa.gr
-13:49:13	Warning: 	Retry after error -4 (No data (connection clhttps://www.unipa.gr://www.uniwa.gr/software/uniwai-innohub/ (from https://www.unipa.gr/foitites/)https://www.unipa.gr
+13:49:13	Warning: 	Retry after error -4 (No data (connection clhttps://www.unipa.gr://www.unipa.gr/software/uniwai-innohub/ (from https://www.unipa.gr/foitites/)https://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
-13:49:13	Warning: 	Retry after error -4 (No data (connection clhttps://www.unipa.gr://www.uniwa.gr/https://www.unipa.gr://www.uniwa.gr/foitites/)
+13:49:13	Warning: 	Retry after error -4 (No data (connection clhttps://www.unipa.gr://www.unipa.gr/https://www.unipa.gr://www.unipa.gr/foitites/)
 https://www.unipa.grhttps://www.unipa.gr
-13:52:23	Warning: 	Retry after error -4 (No data (connection clhttps://www.unipa.gr://www.uniwa.gr/faq/kathe-pote-ginontai-prokiryxeis-i-proskliseis-endiaferontos-gia-ekponisi-didaktorikis-diatrivis-apo-ta-tmimata/ (from https://www.unipa.gr/faq-category/proptychiakes-spoydes/)https://www.unipa.gr
+13:52:23	Warning: 	Retry after error -4 (No data (connection clhttps://www.unipa.gr://www.unipa.gr/faq/kathe-pote-ginontai-prokiryxeis-i-proskliseis-endiaferontos-gia-ekponisi-didaktorikis-diatrivis-apo-ta-tmimata/ (from https://www.unipa.gr/faq-category/proptychiakes-spoydes/)https://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
-13:52:23	Warning: 	Retry after error -4 (No data (connection clhttps://www.unipa.gr://www.uniwa.gr/https://www.unipa.grita-ekponisis-didaktorikon-diatrivon-me-synepivlepsi-metaxy-toy-pa-d-a-kai-ereynitikon-kentron-institoyton-tis-imedapis-i-kai-omatagon-idrymaton-tis-allodapis/ (from https://www.unipa.gr/faq-category/proptychiakes-spoydes/)
+13:52:23	Warning: 	Retry after error -4 (No data (connection clhttps://www.unipa.gr://www.unipa.gr/https://www.unipa.grita-ekponisis-didaktorikon-diatrivon-me-synepivlepsi-metaxy-toy-pa-d-a-kai-ereynitikon-kentron-institoyton-tis-imedapis-i-kai-omatagon-idrymaton-tis-allodapis/ (from https://www.unipa.gr/faq-category/proptychiakes-spoydes/)
 https://www.unipa.grhttps://www.unipa.gr
-13:52:30	Warning: 	Retry after error -4 (No data (connection clhttps://www.unipa.gr://www.uniwa.gr/wp-json/wp/v2/pages/40323 (from https://www.unipa.gr/foitites/akadimaiki-taytotita/)https://www.unipa.gr
+13:52:30	Warning: 	Retry after error -4 (No data (connection clhttps://www.unipa.gr://www.unipa.gr/wp-json/wp/v2/pages/40323 (from https://www.unipa.gr/foitites/akadimaiki-taytotita/)https://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
 13:52:30	Warning: 	Moved Permanently for https://www.unipa.gr/?https://www.unipa.grhttps://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
@@ -1068,7 +1068,7 @@ https://www.unipa.grhttps://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
 14:04:51	Warning: 	Retry after error -4 (https://www.unipa.grclosed)) at link https://www.unipa.gr/wp-content/themes/uniwa-main/site.js?ver=1.0.324.044823 (from https://www.unipa.gr/category/synedriaseis-sygklitoy-2022/)
 https://www.unipa.grhttps://www.unipa.gr
-14:04:51	Warning: 	Retry after error -4 (https://www.unipa.grclosed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fto-panepistimio%2Fdioikisi%2Fpanepistimiaka-organa%2F (from https://www.unipa.gr/to-panepistimio/dioikisi/panepistimiaka-organa/)
+14:04:51	Warning: 	Retry after error -4 (https://www.unipa.grclosed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fto-panepistimio%2Fdioikisi%2Fpanepistimiaka-organa%2F (from https://www.unipa.gr/to-panepistimio/dioikisi/panepistimiaka-organa/)
 https://www.unipa.grhttps://www.unipa.gr
 14:04:51	Warning: 	Retry after error -4 (https://www.unipa.grclosed)) at link https://www.unipa.gr/wp-json/wp/v2/pages/81378 (from https://www.unipa.gr/to-panepistimio/dioikisi/dioikitiki-domi/dieythynsi-dioikisis/)
 https://www.unipa.grhttps://www.unipa.gr
@@ -1090,7 +1090,7 @@ https://www.unipa.grhttps://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
 14:04:52	Warning: 	File has moved from hthttps://www.unipa.grp=81456 to https://www.unipa.gr/to-panepistimio/dioikisi/dioikitiki-domi/dieythynsi-dioikisis/tmima-ypostirixis-sygklitoy-kai-symvoylioy-dioikisis/
 https://www.unipa.grhttps://www.unipa.gr
-14:04:52	Warning: 	Movedhttps://www.unipa.grps://www.uniwa.gr/?p=81462
+14:04:52	Warning: 	Movedhttps://www.unipa.grps://www.unipa.gr/?p=81462
 https://www.unipa.gr
 14:04:52	Warning: 	File has moved from https://www.unipa.gr/?p=81462 to https:https://www.unipa.grnepistimio/dioikisi/dioikitiki-domi/dieythynsi-dioikisis/grafeio-typoy-koinonikon-meson-kai-dimosieymaton/https://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
@@ -1212,11 +1212,11 @@ https://www.unipa.grhttps://www.unipa.gr
 https://www.unipa.gr
 14:04:58	Warning: 	File has moved from httphttps://www.unipa.gr81645 to https://www.unipa.gr/https://www.unipa.grkisi/dioikitiki-domi/elke/tmima-oikonomikis-diacheirisis-kai-logistirioy/
 https://www.unipa.gr
-14:04:58	Warning: 	Movedhttps://www.unipa.grps://www.uniwa.gr/?p=81648
+14:04:58	Warning: 	Movedhttps://www.unipa.grps://www.unipa.gr/?p=81648
 https://www.unipa.grhttps://www.unipa.gr
-14:04:58	Warning: 	File https://www.unipa.gr://www.uniwa.gr/?p=81648 to https://www.unipa.gr/to-panepistimio/dioikisi/dioikitiki-domi/elke/tmima-oikonomikis-diacheirisis-kai-logistirioy/grafeio-esodon/
+14:04:58	Warning: 	File https://www.unipa.gr://www.unipa.gr/?p=81648 to https://www.unipa.gr/to-panepistimio/dioikisi/dioikitiki-domi/elke/tmima-oikonomikis-diacheirisis-kai-logistirioy/grafeio-esodon/
 https://www.unipa.gr
-14:04:58	Warning: 	Movedhttps://www.unipa.grps://www.uniwa.gr/?p=81651
+14:04:58	Warning: 	Movedhttps://www.unipa.grps://www.unipa.gr/?p=81651
 https://www.unipa.gr
 14:04:58	Warning: 	File has moved from https://www.unipa.gr/?p=81651 to https:https://www.unipa.grnepistimio/dioikhttps://www.unipa.grelke/tmima-oikonomikis-diacheirisis-kai-logistirioy/grafeio-tameiakis-diacheirisis/
 https://www.unipa.gr
@@ -1514,7 +1514,7 @@ https://www.unipa.gr
 https://www.unipa.gr
 14:18:48	Warning: 	Retry after error -4https://www.unipa.grn closed)) athttps://www.unipa.griwa.gr/?p=39177 (from https://www.unipa.gr/spoydes/scholes-kai-tmimata/sph/pch/)
 https://www.unipa.gr
-14:18:49	Warning: 	Retry after error -4https://www.unipa.grn closed)) athttps://www.unipa.griwa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fspoydes%2Fscholes-kai-tmimata%2Fsph%2Fpch%2F (from https://www.unipa.gr/spoydes/scholes-kai-tmimata/sph/pch/)
+14:18:49	Warning: 	Retry after error -4https://www.unipa.grn closed)) athttps://www.unipa.griwa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fspoydes%2Fscholes-kai-tmimata%2Fsph%2Fpch%2F (from https://www.unipa.gr/spoydes/scholes-kai-tmimata/sph/pch/)
 https://www.unipa.gr
 14:18:56	Warning: 	Moved Permanently fohttps://www.unipa.grgr/?p=39198https://www.unipa.gr
 https://www.unipa.gr
@@ -1524,7 +1524,7 @@ https://www.unipa.gr
 https://www.unipa.gr
 14:19:01	Warning: 	File has moved from https://www.unipa.gr/?p=39297 to https://www.unipa.gr/spoydes/scholes-kai-tmimata/sdo/ecec/
 https://www.unipa.gr
-14:19:01	Warning: 	Retry after error -4https://www.unipa.grn closed)) athttps://www.unipa.griwa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fspoydes%2Fscholes-kai-tmimata%2Fsdo%2Fecec%2F (from https://www.unipa.gr/spoydes/scholes-kai-tmimata/sdo/ecec/)
+14:19:01	Warning: 	Retry after error -4https://www.unipa.grn closed)) athttps://www.unipa.griwa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fspoydes%2Fscholes-kai-tmimata%2Fsdo%2Fecec%2F (from https://www.unipa.gr/spoydes/scholes-kai-tmimata/sdo/ecec/)
 https://www.unipa.gr
 14:19:05	Warning: 	Moved Permanently fohttps://www.unipa.grgr/?p=39324https://www.unipa.gr
 https://www.unipa.gr
@@ -1536,7 +1536,7 @@ https://www.unipa.gr
 https://www.unipa.gr
 14:19:15	Warning: 	Retry after error -4https://www.unipa.grn closed)) athttps://www.unipa.griwa.gr/?p=41742 (from https://www.unipa.gr/spoydes/scholes-kai-tmimata/sdo/tourism/)
 https://www.unipa.gr
-14:19:15	Warning: 	Retry after error -4https://www.unipa.grn closed)) athttps://www.unipa.griwa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fspoydes%2Fscholes-kai-tmimata%2Fsdo%2Ftourism%2F (from https://www.unipa.gr/spoydes/scholes-kai-tmimata/sdo/tourism/)
+14:19:15	Warning: 	Retry after error -4https://www.unipa.grn closed)) athttps://www.unipa.griwa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fspoydes%2Fscholes-kai-tmimata%2Fsdo%2Ftourism%2F (from https://www.unipa.gr/spoydes/scholes-kai-tmimata/sdo/tourism/)
 https://www.unipa.gr
 14:19:21	Warning: 	Moved Permanently fohttps://www.unipa.grgr/?p=41766https://www.unipa.gr
 https://www.unipa.gr
@@ -1602,7 +1602,7 @@ https://www.unipa.gr
 https://www.unipa.gr
 14:20:36	Warning: 	File has moved from https://www.unipa.gr/?p=41433 to https://www.unipa.gr/spoydes/scholes-kai-tmimata/feng/idpe/
 https://www.unipa.gr
-14:20:36	Warning: 	Retry after error -4https://www.unipa.grn closed)) athttps://www.unipa.griwa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fspoydes%2Fscholes-kai-tmimata%2Ffeng%2Fidpe%2F (from https://www.unipa.gr/spoydes/scholes-kai-tmimata/feng/idpe/)
+14:20:36	Warning: 	Retry after error -4https://www.unipa.grn closed)) athttps://www.unipa.griwa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fspoydes%2Fscholes-kai-tmimata%2Ffeng%2Fidpe%2F (from https://www.unipa.gr/spoydes/scholes-kai-tmimata/feng/idpe/)
 https://www.unipa.gr
 14:20:41	Warning: 	Moved Permanently fohttps://www.unipa.grgr/?p=41484https://www.unipa.gr
 https://www.unipa.gr
@@ -1792,7 +1792,7 @@ https://www.unipa.gr
 https://www.unipa.gr
 14:21:29	Warning: 	File has moved from https://www.unipa.gr/?p=86661 to https://www.unipa.gr/prokiryxeis-theseon/anakoinosi-prokiryxeon-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-sto-panepistimio-dytikis-attikis/
 https://www.unipa.gr
-14:21:29	Warning: 	Retry after error -4https://www.unipa.grn closed)) athttps://www.unipa.griwa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-theseon%2Fanakoinosi-prokiryxeon-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-sto-panepistimio-dytikis-attikis%2F (from https://www.unipa.gr/prokiryxeis-theseon/anakoinosi-prokiryxeon-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-sto-panepistimio-dytikis-attikis/)
+14:21:29	Warning: 	Retry after error -4https://www.unipa.grn closed)) athttps://www.unipa.griwa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-theseon%2Fanakoinosi-prokiryxeon-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-sto-panepistimio-dytikis-attikis%2F (from https://www.unipa.gr/prokiryxeis-theseon/anakoinosi-prokiryxeon-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-sto-panepistimio-dytikis-attikis/)
 https://www.unipa.gr
 14:21:29	Warning: 	Moved Permanently fohttps://www.unipa.grgr/?p=86650https://www.unipa.gr
 https://www.unipa.gr
@@ -1846,7 +1846,7 @@ https://www.unipa.gr
 https://www.unipa.gr
 14:21:48	Warning: 	File has moved from https://www.unipa.gr/?p=86148 to https://www.unipa.gr/prokiryxeis-theseon/anakoinosi-prokiryxis-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-sto-panepistimio-dytikis-attikis-111861/
 https://www.unipa.gr
-14:21:48	Warning: 	Retry after error -4https://www.unipa.grn closed)) athttps://www.unipa.griwa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-theseon%2Fanakoinosi-prokiryxis-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-sto-panepistimio-dytikis-attikis-111861%2F (from https://www.unipa.gr/prokiryxeis-theseon/anakoinosi-prokiryxis-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-sto-panepistimio-dytikis-attikis-111861/)
+14:21:48	Warning: 	Retry after error -4https://www.unipa.grn closed)) athttps://www.unipa.griwa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-theseon%2Fanakoinosi-prokiryxis-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-sto-panepistimio-dytikis-attikis-111861%2F (from https://www.unipa.gr/prokiryxeis-theseon/anakoinosi-prokiryxis-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-sto-panepistimio-dytikis-attikis-111861/)
 https://www.unipa.gr
 14:21:48	Warning: 	Moved Permanently fohttps://www.unipa.grgr/?p=86017https://www.unipa.gr
 https://www.unipa.gr
@@ -1924,65 +1924,65 @@ https://www.unipa.gr
 https://www.unipa.gr
 14:21:56	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.gr (from https://www.unipa.gr/prokiryxeis-theseon/dimosia-prosklisi-gia-tin-plirosi-tis-thesis-ektelestikoy-dieythynti-epi-thiteia-toy-geoponikoy-panepistimioy-athinon/)
 https://www.unipa.gr
-14:21:56	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.groembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-theseon%2Fdimosia-prosklisi-gia-tin-plirosi-tis-thesis-ektelestikoy-dieythynti-epi-thiteia-toy-geoponikoy-panepistimioy-athinon%2F (from https://www.unipa.gr/prokiryxeis-theseon/dimosia-prosklisi-gia-tin-plirosi-tis-thesis-ektelestikoy-dieythynti-epi-thiteia-toy-geoponikoy-panepistimioy-athinon/)
+14:21:56	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.groembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-theseon%2Fdimosia-prosklisi-gia-tin-plirosi-tis-thesis-ektelestikoy-dieythynti-epi-thiteia-toy-geoponikoy-panepistimioy-athinon%2F (from https://www.unipa.gr/prokiryxeis-theseon/dimosia-prosklisi-gia-tin-plirosi-tis-thesis-ektelestikoy-dieythynti-epi-thiteia-toy-geoponikoy-panepistimioy-athinon/)
 https://www.unipa.gr
-14:21:56	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.groembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-theseon%2Fdimosia-prosklisi-gia-tin-plirosi-tis-thesis-ektelestikoy-dieythynti-epi-thiteia-toy-geoponikoy-panepistimioy-athinon%2F&format=xml (from https://www.unipa.gr/prokiryxeis-theseon/dimosia-prosklisi-gia-tin-plirosi-tis-thesis-ektelestikoy-dieythynti-epi-thiteia-toy-geoponikoy-panepistimioy-athinon/)
+14:21:56	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.groembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-theseon%2Fdimosia-prosklisi-gia-tin-plirosi-tis-thesis-ektelestikoy-dieythynti-epi-thiteia-toy-geoponikoy-panepistimioy-athinon%2F&format=xml (from https://www.unipa.gr/prokiryxeis-theseon/dimosia-prosklisi-gia-tin-plirosi-tis-thesis-ektelestikoy-dieythynti-epi-thiteia-toy-geoponikoy-panepistimioy-athinon/)
 https://www.unipa.gr
 14:21:57	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.grwp/v2/posts/84716 (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-29/)
 https://www.unipa.gr
 14:21:57	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.gr (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-29/)
 https://www.unipa.gr
-14:22:03	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.groembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-29%2F (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-29/)
+14:22:03	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.groembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-29%2F (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-29/)
 https://www.unipa.gr
-14:22:03	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.groembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-29%2F&format=xml (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-29/)
+14:22:03	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.groembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-29%2F&format=xml (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-29/)
 https://www.unipa.gr
 14:22:03	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.grwp/v2/posts/84720 (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-eklogon-gia-tin-anadeixi-dieythynti-toy-ergastirioy-me-titlo-ergastirio-igesias-kai-kainotomias-i-k-the-leadership-innovation-laboratory-l-i-lab-stin/)
 https://www.unipa.gr
 14:22:03	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.gr (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-eklogon-gia-tin-anadeixi-dieythynti-toy-ergastirioy-me-titlo-ergastirio-igesias-kai-kainotomias-i-k-the-leadership-innovation-laboratory-l-i-lab-stin/)
 https://www.unipa.gr
-14:22:04	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.groembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-eklogon-gia-tin-anadeixi-dieythynti-toy-ergastirioy-me-titlo-ergastirio-igesias-kai-kainotomias-i-k-the-leadership-innovation-laboratory-l-i-lab-stin%2F (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-eklogon-gia-tin-anadeixi-dieythynti-toy-ergastirioy-me-titlo-ergastirio-igesias-kai-kainotomias-i-k-the-leadership-innovation-laboratory-l-i-lab-stin/)
+14:22:04	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.groembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-eklogon-gia-tin-anadeixi-dieythynti-toy-ergastirioy-me-titlo-ergastirio-igesias-kai-kainotomias-i-k-the-leadership-innovation-laboratory-l-i-lab-stin%2F (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-eklogon-gia-tin-anadeixi-dieythynti-toy-ergastirioy-me-titlo-ergastirio-igesias-kai-kainotomias-i-k-the-leadership-innovation-laboratory-l-i-lab-stin/)
 https://www.unipa.gr
-14:22:04	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.groembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-eklogon-gia-tin-anadeixi-dieythynti-toy-ergastirioy-me-titlo-ergastirio-igesias-kai-kainotomias-i-k-the-leadership-innovation-laboratory-l-i-lab-stin%2F&format=xml (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-eklogon-gia-tin-anadeixi-dieythynti-toy-ergastirioy-me-titlo-ergastirio-igesias-kai-kainotomias-i-k-the-leadership-innovation-laboratory-l-i-lab-stin/)
+14:22:04	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.groembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-eklogon-gia-tin-anadeixi-dieythynti-toy-ergastirioy-me-titlo-ergastirio-igesias-kai-kainotomias-i-k-the-leadership-innovation-laboratory-l-i-lab-stin%2F&format=xml (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-eklogon-gia-tin-anadeixi-dieythynti-toy-ergastirioy-me-titlo-ergastirio-igesias-kai-kainotomias-i-k-the-leadership-innovation-laboratory-l-i-lab-stin/)
 https://www.unipa.gr
 14:22:04	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.grwp/v2/posts/84673 (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-25196/)
 https://www.unipa.gr
 14:22:05	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.gr (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-25196/)
 https://www.unipa.gr
-14:22:11	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.groembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-25196%2F (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-25196/)
+14:22:11	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.groembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-25196%2F (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-25196/)
 https://www.unipa.gr
-14:22:11	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.groembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-25196%2F&format=xml (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-25196/)
+14:22:11	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.groembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-25196%2F&format=xml (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-25196/)
 https://www.unipa.gr
 14:22:11	Warning: 	Retry after error -4https://www.unipa.grn closed)) athttps://www.unipa.griwa.gr/wp-json/wp/v2/posts/84592 (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-28/)
 https://www.unipa.gr
 14:22:11	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.gr (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-28/)
 https://www.unipa.gr
-14:22:11	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.groembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-28%2F (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-28/)
+14:22:11	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.groembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-28%2F (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-28/)
 https://www.unipa.gr
-14:22:11	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.groembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-28%2F&format=xml (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-28/)
+14:22:11	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.groembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-28%2F&format=xml (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-28/)
 https://www.unipa.gr
 14:22:12	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.grwp/v2/posts/84539 (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-680-t-g-01-03-2024/)
 https://www.unipa.gr
 14:22:12	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.gr (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-680-t-g-01-03-2024/)
 https://www.unipa.gr
-14:22:12	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.groembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-680-t-g-01-03-2024%2F (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-680-t-g-01-03-2024/)
+14:22:12	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.groembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-680-t-g-01-03-2024%2F (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-680-t-g-01-03-2024/)
 https://www.unipa.gr
-14:22:18	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.groembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-680-t-g-01-03-2024%2F&format=xml (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-680-t-g-01-03-2024/)
+14:22:18	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.groembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-680-t-g-01-03-2024%2F&format=xml (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-680-t-g-01-03-2024/)
 https://www.unipa.gr
 14:22:18	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.grwp/v2/posts/84522 (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-521-t-g-13-02-2024/)
 https://www.unipa.gr
 14:22:19	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.gr (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-521-t-g-13-02-2024/)
 https://www.unipa.gr
-14:22:19	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.groembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-521-t-g-13-02-2024%2F (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-521-t-g-13-02-2024/)
+14:22:19	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.groembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-521-t-g-13-02-2024%2F (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-521-t-g-13-02-2024/)
 https://www.unipa.gr
-14:22:19	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.groembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-521-t-g-13-02-2024%2F&format=xml (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-521-t-g-13-02-2024/)
+14:22:19	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.groembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-521-t-g-13-02-2024%2F&format=xml (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-521-t-g-13-02-2024/)
 https://www.unipa.gr
 14:22:19	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.grwp/v2/posts/84379 (from https://www.unipa.gr/prokiryxeis-theseon/prosklisi-ekdilosis-endiaferontos-gia-epilogi-enos-1-ekprosopoy-os-taktikoy-meloys-tis-genikis-syneleysis-toy-ellinikoy-idrymatos-ereynas-kai-kainotomias-elidek/)
 https://www.unipa.gr
 14:22:20	Warning: 	Retry after error 50https://www.unipa.grink https://whttps://www.unipa.gr (from https://www.unipa.gr/prokiryxeis-theseon/prosklisi-ekdilosis-endiaferontos-gia-epilogi-enos-1-ekprosopoy-os-taktikoy-meloys-tis-genikis-syneleysis-toy-ellinikoy-idrymatos-ereynas-kai-kainotomias-elidek/)
 https://www.unipa.grhttps://www.unipa.gr
-14:22:20	Warning: 	Retry after error 502 https://www.unipa.grk https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-theseon%2Fprosklisi-ekdilosis-endiaferontos-gia-epilogi-enos-1-ekprosopoy-os-taktikoy-meloys-tis-genikis-syneleysis-toy-ellinikoy-idrymatos-ereynas-kai-kainotomias-elidek%2F (from https://www.unipa.gr/prokiryxeis-theseon/prosklisi-ekdilosis-endiaferontos-gia-epilogi-enos-1-ekprosopoy-os-taktikoy-meloys-tis-genikis-syneleysis-toy-ellinikoy-idrymatos-ereynas-kai-kainotomias-elidek/)
+14:22:20	Warning: 	Retry after error 502 https://www.unipa.grk https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-theseon%2Fprosklisi-ekdilosis-endiaferontos-gia-epilogi-enos-1-ekprosopoy-os-taktikoy-meloys-tis-genikis-syneleysis-toy-ellinikoy-idrymatos-ereynas-kai-kainotomias-elidek%2F (from https://www.unipa.gr/prokiryxeis-theseon/prosklisi-ekdilosis-endiaferontos-gia-epilogi-enos-1-ekprosopoy-os-taktikoy-meloys-tis-genikis-syneleysis-toy-ellinikoy-idrymatos-ereynas-kai-kainotomias-elidek/)
 https://www.unipa.grhttps://www.unipa.gr
-14:22:26	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.unihttps://www.unipa.gr/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-theseon%2Fprosklisi-ekdilosis-endiaferontos-gia-epilogi-enos-1-ekprosopoy-os-taktikoy-meloys-tis-genikis-synelehttps://www.unipa.grdrymatos-ereynas-kai-kainotomias-elidek%2F&format=xml (from https://www.unipa.gr/prokiryxeis-theseon/prosklisi-ekdilosis-endiaferontos-gia-epilogi-enos-1-ekprosopoy-os-taktikoy-meloys-tis-genikis-syneleysis-toy-ellinikoy-idrymatos-ereynas-kai-kainotomias-elidek/)
+14:22:26	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.unihttps://www.unipa.gr/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-theseon%2Fprosklisi-ekdilosis-endiaferontos-gia-epilogi-enos-1-ekprosopoy-os-taktikoy-meloys-tis-genikis-synelehttps://www.unipa.grdrymatos-ereynas-kai-kainotomias-elidek%2F&format=xml (from https://www.unipa.gr/prokiryxeis-theseon/prosklisi-ekdilosis-endiaferontos-gia-epilogi-enos-1-ekprosopoy-os-taktikoy-meloys-tis-genikis-syneleysis-toy-ellinikoy-idrymatos-ereynas-kai-kainotomias-elidek/)
 https://www.unipa.gr
 14:22:26	Warning: 	Retry after error -4https://www.unipa.grn closed)) athttps://www.unipa.griwa.gr/wp-content/themes/uniwa-main/style.css?ver=1.0.324.044450 (from https://www.unipa.gr/category/prokiryxeis-diagonismon/)
 https://www.unipa.gr
@@ -1992,7 +1992,7 @@ https://www.unipa.gr
 https://www.unipa.gr
 14:22:27	Warning: 	File has moved from https://www.unipa.gr/?p=86525 to https://www.unipa.gr/prokiryxeis-diagonismon/diakiryxi-ilektronikoy-dimosioy-anoichtoy-diagonismoy-promitheia-ilektrologikoy-ylikoy-gia-ton-programmatismo-oikonomikoy-etoys-2025-gia-tis-anagkes-toy-panepistimioy-dytikis-attikis/
 https://www.unipa.gr
-14:22:27	Warning: 	Retry after error -4https://www.unipa.grn closed)) athttps://www.unipa.griwa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-diagonismon%2Fdiakiryxi-ilektronikoy-dimosioy-anoichtoy-diagonismoy-promitheia-ilektrologikoy-ylikoy-gia-ton-programmatismo-oikonomikoy-etoys-2025-gia-tis-anagkes-toy-panepistimioy-dytikis-attikis%2F (from https://www.unipa.gr/prokiryxeis-diagonismon/diakiryxi-ilektronikoy-dimosioy-anoichtoy-diagonismoy-promitheia-ilektrologikoy-ylikoy-gia-ton-programmatismo-oikonomikoy-etoys-2025-gia-tis-anagkes-toy-panepistimioy-dytikis-attikis/)
+14:22:27	Warning: 	Retry after error -4https://www.unipa.grn closed)) athttps://www.unipa.griwa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-diagonismon%2Fdiakiryxi-ilektronikoy-dimosioy-anoichtoy-diagonismoy-promitheia-ilektrologikoy-ylikoy-gia-ton-programmatismo-oikonomikoy-etoys-2025-gia-tis-anagkes-toy-panepistimioy-dytikis-attikis%2F (from https://www.unipa.gr/prokiryxeis-diagonismon/diakiryxi-ilektronikoy-dimosioy-anoichtoy-diagonismoy-promitheia-ilektrologikoy-ylikoy-gia-ton-programmatismo-oikonomikoy-etoys-2025-gia-tis-anagkes-toy-panepistimioy-dytikis-attikis/)
 https://www.unipa.gr
 14:22:27	Warning: 	Moved Permanently fohttps://www.unipa.grgr/?p=86460https://www.unipa.gr
 https://www.unipa.gr
@@ -2160,7 +2160,7 @@ https://www.unipa.grhttps://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
 14:22:37	Warning: 	File has moved from https://www.unipa.gr/?p=84780 to https:https://www.unipa.grryxeis-diagonismon/diakiryxi-ilektronikoy-diethnoys-anoichtoy-diagonismoy-kathariotita-ktirion-kai-choron-toy-panepistimioy-dytikis-attikis-apo-01-04-2024-eos-31-03-2026/https://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
-14:22:37	Warning: 	Retry after error -4 (https://www.unipa.grclosed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-diagonismon%2Fdiakiryxi-ilektronikoy-diethnoys-anoichtoy-diagonismoy-kathariotita-ktirion-kai-choron-toy-panepistimioy-dytikis-attikis-apo-01-04-2024-eos-31-03-2026%2F (from https://www.unipa.gr/prokiryxeis-diagonismon/diakiryxi-ilektronikoy-diethnoys-anoichtoy-diagonismoy-kathariotita-ktirion-kai-choron-toy-panepistimioy-dytikis-attikis-apo-01-04-2024-eos-31-03-2026/)
+14:22:37	Warning: 	Retry after error -4 (https://www.unipa.grclosed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-diagonismon%2Fdiakiryxi-ilektronikoy-diethnoys-anoichtoy-diagonismoy-kathariotita-ktirion-kai-choron-toy-panepistimioy-dytikis-attikis-apo-01-04-2024-eos-31-03-2026%2F (from https://www.unipa.gr/prokiryxeis-diagonismon/diakiryxi-ilektronikoy-diethnoys-anoichtoy-diagonismoy-kathariotita-ktirion-kai-choron-toy-panepistimioy-dytikis-attikis-apo-01-04-2024-eos-31-03-2026/)
 https://www.unipa.grhttps://www.unipa.gr
 14:22:37	Warning: 	Moved Permanently for https://www.unipa.gr/?p=84684https://www.unipa.grhttps://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
@@ -2210,7 +2210,7 @@ https://www.unipa.grhttps://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
 14:23:40	Warning: 	File has moved from hthttps://www.unipa.grp=79749 to https://www.unipa.gr/ekloges-kosmitoron-stis-scholes-2023/prosklisi-ekdilosis-endiaferontos-ypovolis-ypopsifiotiton-gia-to-axioma-toy-kosmitora-tis-scholis-epistimon-trofimon-toy-panepistimioy-dytikis-attikis/
 https://www.unipa.grhttps://www.unipa.gr
-14:23:40	Warning: 	Movedhttps://www.unipa.grps://www.uniwa.gr/?p=79740
+14:23:40	Warning: 	Movedhttps://www.unipa.grps://www.unipa.gr/?p=79740
 https://www.unipa.gr
 14:23:40	Warning: 	File has moved from https://www.unipa.gr/?p=79740 to https://www.unipa.gr/ekloges-kosmitoron-stis-scholes-2023/prosklisi-ekdilosis-endiaferontos-ypovolis-ypopsifiotiton-gia-to-axioma-toy-kosmitora-tis-scholis-epistimon-ygeias-kai-pronoias-toy-panepistimioy-dytikis-attikis/
 https://www.unipa.grhttps://www.unipa.gr
@@ -2444,7 +2444,7 @@ https://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
 14:24:04	Warning: 	File has moved from https://www.unipa.gr/?p=86248 to https:https://www.unipa.grncements/prosklisi-ekdilosis-endiaferontos-gia-ypovoli-aitiseon-apo-neoys-epistimones-katochoys-didaktorikoy-sto-plaisio-ylopoiisis-tis-praxis-apoktisi-akadimaikis-didaktikis-empeirias-se-neoys-epistimon-2/https://www.unipa.gr
 https://www.unipa.gr
-14:24:04	Warning: 	Retry after error -4https://www.unipa.grn closed)) athttps://www.unipa.griwa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fannouncements%2Fprosklisi-ekdilosis-endiaferontos-gia-ypovoli-aitiseon-apo-neoys-epistimones-katochoys-didaktorikoy-sto-plaisio-ylopoiisis-tis-praxis-apoktisi-akadimaikis-didaktikis-empeirias-se-neoys-epistimon-2%2F (from https://www.unipa.gr/announcements/prosklisi-ekdilosis-endiaferontos-gia-ypovoli-aitiseon-apo-neoys-epistimones-katochoys-didaktorikoy-sto-plaisio-ylopoiisis-tis-praxis-apoktisi-akadimaikis-didaktikis-empeirias-se-neoys-epistimon-2/)
+14:24:04	Warning: 	Retry after error -4https://www.unipa.grn closed)) athttps://www.unipa.griwa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fannouncements%2Fprosklisi-ekdilosis-endiaferontos-gia-ypovoli-aitiseon-apo-neoys-epistimones-katochoys-didaktorikoy-sto-plaisio-ylopoiisis-tis-praxis-apoktisi-akadimaikis-didaktikis-empeirias-se-neoys-epistimon-2%2F (from https://www.unipa.gr/announcements/prosklisi-ekdilosis-endiaferontos-gia-ypovoli-aitiseon-apo-neoys-epistimones-katochoys-didaktorikoy-sto-plaisio-ylopoiisis-tis-praxis-apoktisi-akadimaikis-didaktikis-empeirias-se-neoys-epistimon-2/)
 https://www.unipa.grhttps://www.unipa.gr
 14:24:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/wp/v2/users/258 (from https://www.unipa.gr/author/tchondrelis/)https://www.unipa.gr
 https://www.unipa.grhttps://www.unipa.gr
@@ -2542,7 +2542,7 @@ https://www.unipa.gr
 https://www.unipa.gr
 14:24:59	Warning: 	File has moved from https://www.unipa.gr/?p=36879 to https://www.unipa.gr/event/epistimoniki-imerida-fysikotherapeia-kai-poiotita-zois-anaptyxi-diatirisi-epanaktisi/
 https://www.unipa.gr
-14:24:59	Warning: 	Retry after error -4https://www.unipa.grn closed)) athttps://www.unipa.griwa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fevent%2Fepistimoniki-imerida-fysikotherapeia-kai-poiotita-zois-anaptyxi-diatirisi-epanaktisi%2F (from https://www.unipa.gr/event/epistimoniki-imerida-fysikotherapeia-kai-poiotita-zois-anaptyxi-diatirisi-epanaktisi/)
+14:24:59	Warning: 	Retry after error -4https://www.unipa.grn closed)) athttps://www.unipa.griwa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fevent%2Fepistimoniki-imerida-fysikotherapeia-kai-poiotita-zois-anaptyxi-diatirisi-epanaktisi%2F (from https://www.unipa.gr/event/epistimoniki-imerida-fysikotherapeia-kai-poiotita-zois-anaptyxi-diatirisi-epanaktisi/)
 https://www.unipa.gr
 14:25:06	Warning: 	Moved Permanently fohttps://www.unipa.grgr/?p=37293https://www.unipa.gr
 https://www.unipa.gr
@@ -2574,7 +2574,7 @@ https://www.unipa.gr
 https://www.unipa.gr
 14:25:20	Warning: 	File has moved from https://www.unipa.gr/?p=28359 to https://www.unipa.gr/event/imerida-logistiki-typopoiisi/
 https://www.unipa.gr
-14:25:20	Warning: 	Retry after error -4https://www.unipa.grn closed)) athttps://www.unipa.griwa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fevent%2Fimerida-logistiki-typopoiisi%2F (from https://www.unipa.gr/event/imerida-logistiki-typopoiisi/)
+14:25:20	Warning: 	Retry after error -4https://www.unipa.grn closed)) athttps://www.unipa.griwa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fevent%2Fimerida-logistiki-typopoiisi%2F (from https://www.unipa.gr/event/imerida-logistiki-typopoiisi/)
 https://www.unipa.gr
 14:25:20	Warning: 	Moved Permanently fohttps://www.unipa.grgr/?p=27450https://www.unipa.gr
 https://www.unipa.gr
@@ -3652,9 +3652,9 @@ https://www.unipa.grhttps://www.unipa.gr
 
 14:28:23	Warning: 	File has moved from https://www.unipa.gr/?p=26493 to https://www.unipa.gr/proypologismoi-financials-2019/ypovoli-proypologismoy-oik-etoys-2019-sto-yp-p-e-th/
 
-14:28:23	Warning: 	Moved Permanently for www.uniwa.gr/wp-content/uploads/2019/02/Έγκριση-Δ-Τρποποίησης-ΠΥ-2018-από-ΥΠ.Π.Ε.Θ..pdf
+14:28:23	Warning: 	Moved Permanently for www.unipa.gr/wp-content/uploads/2019/02/Έγκριση-Δ-Τρποποίησης-ΠΥ-2018-από-ΥΠ.Π.Ε.Θ..pdf
 
-14:28:23	Warning: 	Warning moved treated for www.uniwa.gr/wp-content/uploads/2019/02/Έγκριση-Δ-Τρποποίησης-ΠΥ-2018-από-ΥΠ.Π.Ε.Θ..pdf (real one is https://www.unipa.gr/wp-content/uploads/2019/02/%CE%95%CC%81%CE%B3%CE%BA%CF%81%CE%B9%CF%83%CE%B7-%CE%94-%CE%A4%CF%81%CF%80%CE%BF%CF%80%CE%BF%CE%B9%CC%81%CE%B7%CF%83%CE%B7%CF%82-%CE%A0%CE%A5-2018-%CE%B1%CF%80%CE%BF%CC%81-%CE%A5%CE%A0.%CE%A0.%CE%95.%CE%98..pdf)
+14:28:23	Warning: 	Warning moved treated for www.unipa.gr/wp-content/uploads/2019/02/Έγκριση-Δ-Τρποποίησης-ΠΥ-2018-από-ΥΠ.Π.Ε.Θ..pdf (real one is https://www.unipa.gr/wp-content/uploads/2019/02/%CE%95%CC%81%CE%B3%CE%BA%CF%81%CE%B9%CF%83%CE%B7-%CE%94-%CE%A4%CF%81%CF%80%CE%BF%CF%80%CE%BF%CE%B9%CC%81%CE%B7%CF%83%CE%B7%CF%82-%CE%A0%CE%A5-2018-%CE%B1%CF%80%CE%BF%CC%81-%CE%A5%CE%A0.%CE%A0.%CE%95.%CE%98..pdf)
 
 14:28:23	Warning: 	Moved Permanently for https://www.unipa.gr/?p=26475
 
@@ -3966,7 +3966,7 @@ https://www.unipa.grhttps://www.unipa.gr
 
 14:28:33	Warning: 	File has moved from https://www.unipa.gr/?p=56995 to https://www.unipa.gr/ektelesi-proypologismoy-oikonomiko-etos-2020/ektelesi-proypologismoy-aygoystoy-2020-se-morfi-pdf/
 
-14:28:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fektelesi-proypologismoy-oikonomiko-etos-2020%2Fektelesi-proypologismoy-aygoystoy-2020-se-morfi-pdf%2F (from https://www.unipa.gr/ektelesi-proypologismoy-oikonomiko-etos-2020/ektelesi-proypologismoy-aygoystoy-2020-se-morfi-pdf/)
+14:28:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fektelesi-proypologismoy-oikonomiko-etos-2020%2Fektelesi-proypologismoy-aygoystoy-2020-se-morfi-pdf%2F (from https://www.unipa.gr/ektelesi-proypologismoy-oikonomiko-etos-2020/ektelesi-proypologismoy-aygoystoy-2020-se-morfi-pdf/)
 
 14:28:33	Warning: 	Moved Permanently for https://www.unipa.gr/?p=56638
 
@@ -4096,7 +4096,7 @@ https://www.unipa.grhttps://www.unipa.gr
 
 14:28:46	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/?p=39246 (from https://www.unipa.gr/spoydes/scholes-kai-tmimata/sph/php/minyma-proedroy/)
 
-14:28:46	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fspoydes%2Fscholes-kai-tmimata%2Fsph%2Fphp%2Fminyma-proedroy%2F (from https://www.unipa.gr/spoydes/scholes-kai-tmimata/sph/php/minyma-proedroy/)
+14:28:46	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fspoydes%2Fscholes-kai-tmimata%2Fsph%2Fphp%2Fminyma-proedroy%2F (from https://www.unipa.gr/spoydes/scholes-kai-tmimata/sph/php/minyma-proedroy/)
 
 14:28:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/wp/v2/pages/39312 (from https://www.unipa.gr/spoydes/scholes-kai-tmimata/sdo/ecec/minyma-proedroy/)
 
@@ -4116,7 +4116,7 @@ https://www.unipa.grhttps://www.unipa.gr
 
 14:28:47	Warning: 	File has moved from https://www.unipa.gr/?p=41742 to https://www.unipa.gr/spoydes/scholes-kai-tmimata/sdo/tourism/
 
-14:28:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fspoydes%2Fscholes-kai-tmimata%2Fsdo%2Ftourism%2F (from https://www.unipa.gr/spoydes/scholes-kai-tmimata/sdo/tourism/)
+14:28:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fspoydes%2Fscholes-kai-tmimata%2Fsdo%2Ftourism%2F (from https://www.unipa.gr/spoydes/scholes-kai-tmimata/sdo/tourism/)
 
 14:28:47	Warning: 	Moved Permanently for https://www.unipa.gr/?p=41760
 
@@ -4250,7 +4250,7 @@ https://www.unipa.grhttps://www.unipa.gr
 
 14:29:01	Warning: 	File has moved from https://www.unipa.gr/?p=86224 to https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-gia-proslipsi-se-theseis-me-kathestos-pliroys-i-merikis-apascholisis-entetalmenon-didaskonton-me-symvasi-ergasias-idiotikoy-dikaioy-orismenoy-chronoy-gia-to-earino-examino-toy-akadimaikoy-2/
 
-14:29:02	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-gia-proslipsi-se-theseis-me-kathestos-pliroys-i-merikis-apascholisis-entetalmenon-didaskonton-me-symvasi-ergasias-idiotikoy-dikaioy-orismenoy-chronoy-gia-to-earino-examino-toy-akadimaikoy-2%2F (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-gia-proslipsi-se-theseis-me-kathestos-pliroys-i-merikis-apascholisis-entetalmenon-didaskonton-me-symvasi-ergasias-idiotikoy-dikaioy-orismenoy-chronoy-gia-to-earino-examino-toy-akadimaikoy-2/)
+14:29:02	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-gia-proslipsi-se-theseis-me-kathestos-pliroys-i-merikis-apascholisis-entetalmenon-didaskonton-me-symvasi-ergasias-idiotikoy-dikaioy-orismenoy-chronoy-gia-to-earino-examino-toy-akadimaikoy-2%2F (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-gia-proslipsi-se-theseis-me-kathestos-pliroys-i-merikis-apascholisis-entetalmenon-didaskonton-me-symvasi-ergasias-idiotikoy-dikaioy-orismenoy-chronoy-gia-to-earino-examino-toy-akadimaikoy-2/)
 
 14:29:02	Warning: 	Moved Permanently for https://www.unipa.gr/?p=86220
 
@@ -4276,7 +4276,7 @@ https://www.unipa.grhttps://www.unipa.gr
 
 14:29:07	Warning: 	File has moved from https://www.unipa.gr/?p=84736 to https://www.unipa.gr/prokiryxeis-theseon/dimosia-prosklisi-gia-tin-plirosi-tis-thesis-ektelestikoy-dieythynti-epi-thiteia-toy-geoponikoy-panepistimioy-athinon/
 
-14:29:07	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-theseon%2Fdimosia-prosklisi-gia-tin-plirosi-tis-thesis-ektelestikoy-dieythynti-epi-thiteia-toy-geoponikoy-panepistimioy-athinon%2F (from https://www.unipa.gr/prokiryxeis-theseon/dimosia-prosklisi-gia-tin-plirosi-tis-thesis-ektelestikoy-dieythynti-epi-thiteia-toy-geoponikoy-panepistimioy-athinon/)
+14:29:07	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-theseon%2Fdimosia-prosklisi-gia-tin-plirosi-tis-thesis-ektelestikoy-dieythynti-epi-thiteia-toy-geoponikoy-panepistimioy-athinon%2F (from https://www.unipa.gr/prokiryxeis-theseon/dimosia-prosklisi-gia-tin-plirosi-tis-thesis-ektelestikoy-dieythynti-epi-thiteia-toy-geoponikoy-panepistimioy-athinon/)
 
 14:29:07	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/wp/v2/posts/84716 (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-29/)
 
@@ -4284,15 +4284,15 @@ https://www.unipa.grhttps://www.unipa.gr
 
 14:29:09	Warning: 	File has moved from https://www.unipa.gr/?p=84716 to https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-29/
 
-14:29:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-29%2F (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-29/)
+14:29:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-29%2F (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-29/)
 
-14:29:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-29%2F&format=xml (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-29/)
+14:29:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-29%2F&format=xml (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-29/)
 
 14:29:09	Warning: 	Moved Permanently for https://www.unipa.gr/?p=84720
 
 14:29:09	Warning: 	File has moved from https://www.unipa.gr/?p=84720 to https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-eklogon-gia-tin-anadeixi-dieythynti-toy-ergastirioy-me-titlo-ergastirio-igesias-kai-kainotomias-i-k-the-leadership-innovation-laboratory-l-i-lab-stin/
 
-14:29:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-eklogon-gia-tin-anadeixi-dieythynti-toy-ergastirioy-me-titlo-ergastirio-igesias-kai-kainotomias-i-k-the-leadership-innovation-laboratory-l-i-lab-stin%2F (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-eklogon-gia-tin-anadeixi-dieythynti-toy-ergastirioy-me-titlo-ergastirio-igesias-kai-kainotomias-i-k-the-leadership-innovation-laboratory-l-i-lab-stin/)
+14:29:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-eklogon-gia-tin-anadeixi-dieythynti-toy-ergastirioy-me-titlo-ergastirio-igesias-kai-kainotomias-i-k-the-leadership-innovation-laboratory-l-i-lab-stin%2F (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-eklogon-gia-tin-anadeixi-dieythynti-toy-ergastirioy-me-titlo-ergastirio-igesias-kai-kainotomias-i-k-the-leadership-innovation-laboratory-l-i-lab-stin/)
 
 14:29:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/wp/v2/posts/84673 (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-25196/)
 
@@ -4300,17 +4300,17 @@ https://www.unipa.grhttps://www.unipa.gr
 
 14:29:09	Warning: 	File has moved from https://www.unipa.gr/?p=84673 to https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-25196/
 
-14:29:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-25196%2F (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-25196/)
+14:29:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-25196%2F (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-25196/)
 
-14:29:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-25196%2F&format=xml (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-25196/)
+14:29:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-25196%2F&format=xml (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-25196/)
 
 14:29:15	Warning: 	Moved Permanently for https://www.unipa.gr/?p=84592
 
 14:29:15	Warning: 	File has moved from https://www.unipa.gr/?p=84592 to https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-28/
 
-14:29:15	Warning: 	Retry after error 502 () at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-28%2F (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-28/)
+14:29:15	Warning: 	Retry after error 502 () at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-28%2F (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-28/)
 
-14:29:15	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-28%2F&format=xml (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-28/)
+14:29:15	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-28%2F&format=xml (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-28/)
 
 14:29:15	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/wp/v2/posts/84539 (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-680-t-g-01-03-2024/)
 
@@ -4318,7 +4318,7 @@ https://www.unipa.grhttps://www.unipa.gr
 
 14:29:17	Warning: 	File has moved from https://www.unipa.gr/?p=84539 to https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-680-t-g-01-03-2024/
 
-14:29:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-680-t-g-01-03-2024%2F&format=xml (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-680-t-g-01-03-2024/)
+14:29:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-680-t-g-01-03-2024%2F&format=xml (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-680-t-g-01-03-2024/)
 
 14:29:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/wp/v2/posts/84522 (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-521-t-g-13-02-2024/)
 
@@ -4326,11 +4326,11 @@ https://www.unipa.grhttps://www.unipa.gr
 
 14:29:17	Warning: 	File has moved from https://www.unipa.gr/?p=84522 to https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-521-t-g-13-02-2024/
 
-14:29:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-521-t-g-13-02-2024%2F&format=xml (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-521-t-g-13-02-2024/)
+14:29:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-521-t-g-13-02-2024%2F&format=xml (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-521-t-g-13-02-2024/)
 
 14:29:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/?p=84379 (from https://www.unipa.gr/prokiryxeis-theseon/prosklisi-ekdilosis-endiaferontos-gia-epilogi-enos-1-ekprosopoy-os-taktikoy-meloys-tis-genikis-syneleysis-toy-ellinikoy-idrymatos-ereynas-kai-kainotomias-elidek/)
 
-14:29:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-theseon%2Fprosklisi-ekdilosis-endiaferontos-gia-epilogi-enos-1-ekprosopoy-os-taktikoy-meloys-tis-genikis-syneleysis-toy-ellinikoy-idrymatos-ereynas-kai-kainotomias-elidek%2F&format=xml (from https://www.unipa.gr/prokiryxeis-theseon/prosklisi-ekdilosis-endiaferontos-gia-epilogi-enos-1-ekprosopoy-os-taktikoy-meloys-tis-genikis-syneleysis-toy-ellinikoy-idrymatos-ereynas-kai-kainotomias-elidek/)
+14:29:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-theseon%2Fprosklisi-ekdilosis-endiaferontos-gia-epilogi-enos-1-ekprosopoy-os-taktikoy-meloys-tis-genikis-syneleysis-toy-ellinikoy-idrymatos-ereynas-kai-kainotomias-elidek%2F&format=xml (from https://www.unipa.gr/prokiryxeis-theseon/prosklisi-ekdilosis-endiaferontos-gia-epilogi-enos-1-ekprosopoy-os-taktikoy-meloys-tis-genikis-syneleysis-toy-ellinikoy-idrymatos-ereynas-kai-kainotomias-elidek/)
 
 14:29:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/wp/v2/posts/86525 (from https://www.unipa.gr/prokiryxeis-diagonismon/diakiryxi-ilektronikoy-dimosioy-anoichtoy-diagonismoy-promitheia-ilektrologikoy-ylikoy-gia-ton-programmatismo-oikonomikoy-etoys-2025-gia-tis-anagkes-toy-panepistimioy-dytikis-attikis/)
 
@@ -4466,7 +4466,7 @@ https://www.unipa.grhttps://www.unipa.gr
 
 14:30:13	Warning: 	File has moved from https://www.unipa.gr/?p=52222 to https://www.unipa.gr/event/diepistimoniko-synedrio-athens-calls-athens-man-and-his-creations/
 
-14:30:13	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fevent%2Fdiepistimoniko-synedrio-athens-calls-athens-man-and-his-creations%2F (from https://www.unipa.gr/event/diepistimoniko-synedrio-athens-calls-athens-man-and-his-creations/)
+14:30:13	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fevent%2Fdiepistimoniko-synedrio-athens-calls-athens-man-and-his-creations%2F (from https://www.unipa.gr/event/diepistimoniko-synedrio-athens-calls-athens-man-and-his-creations/)
 
 14:30:13	Warning: 	Moved Permanently for https://www.unipa.gr/?p=36549
 
@@ -4482,7 +4482,7 @@ https://www.unipa.grhttps://www.unipa.gr
 
 14:30:14	Warning: 	File has moved from https://www.unipa.gr/?p=28002 to https://www.unipa.gr/event/viomatiko-seminario-spoydaston-gia-tin-katanoisi-toy-fainomenoy-tis-toxikoexartisis-kai-tin-prolipsi-toy-triti-16-4-2019/
 
-14:30:19	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fevent%2Fimerida-logistiki-typopoiisi%2F (from https://www.unipa.gr/event/imerida-logistiki-typopoiisi/)
+14:30:19	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fevent%2Fimerida-logistiki-typopoiisi%2F (from https://www.unipa.gr/event/imerida-logistiki-typopoiisi/)
 
 14:30:19	Warning: 	Moved Permanently for https://www.unipa.gr/?p=27795
 
@@ -4494,17 +4494,17 @@ https://www.unipa.grhttps://www.unipa.gr
 
 14:30:19	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/?p=27201 (from https://www.unipa.gr/event/imerida-prolipsi-kai-proagogi-psychikis-ygeias-stin-koinotita/)
 
-14:30:26	Warning: 	Moved Permanently for www.uniwa.gr/robots.txt
+14:30:26	Warning: 	Moved Permanently for www.unipa.gr/robots.txt
 
-14:30:26	Warning: 	Redirected link is identical because of 'URL Hack' option: www.uniwa.gr/robots.txt and https://www.unipa.gr/robots.txt
+14:30:26	Warning: 	Redirected link is identical because of 'URL Hack' option: www.unipa.gr/robots.txt and https://www.unipa.gr/robots.txt
 
-14:30:26	Warning: 	Warning moved treated for www.uniwa.gr/robots.txt (real one is https://www.unipa.gr/robots.txt)
+14:30:26	Warning: 	Warning moved treated for www.unipa.gr/robots.txt (real one is https://www.unipa.gr/robots.txt)
 
-14:30:26	Warning: 	Moved Permanently for www.uniwa.gr/pch/
+14:30:26	Warning: 	Moved Permanently for www.unipa.gr/pch/
 
-14:30:26	Warning: 	Redirected link is identical because of 'URL Hack' option: www.uniwa.gr/pch/ and https://www.unipa.gr/pch/
+14:30:26	Warning: 	Redirected link is identical because of 'URL Hack' option: www.unipa.gr/pch/ and https://www.unipa.gr/pch/
 
-14:30:26	Warning: 	File has moved from www.uniwa.gr/pch/ to https://www.unipa.gr/pch/
+14:30:26	Warning: 	File has moved from www.unipa.gr/pch/ to https://www.unipa.gr/pch/
 
 14:30:26	Warning: 	Moved Permanently for https://www.unipa.gr/?p=21759
 
@@ -4636,7 +4636,7 @@ https://www.unipa.grhttps://www.unipa.gr
 
 14:32:33	Warning: 	File has moved from https://www.unipa.gr/?p=39246 to https://www.unipa.gr/spoydes/scholes-kai-tmimata/sph/php/minyma-proedroy/
 
-14:32:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fspoydes%2Fscholes-kai-tmimata%2Fsph%2Fphp%2Fminyma-proedroy%2F (from https://www.unipa.gr/spoydes/scholes-kai-tmimata/sph/php/minyma-proedroy/)
+14:32:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fspoydes%2Fscholes-kai-tmimata%2Fsph%2Fphp%2Fminyma-proedroy%2F (from https://www.unipa.gr/spoydes/scholes-kai-tmimata/sph/php/minyma-proedroy/)
 
 14:32:33	Warning: 	Moved Permanently for https://www.unipa.gr/?p=42933
 
@@ -4660,7 +4660,7 @@ https://www.unipa.grhttps://www.unipa.gr
 
 14:32:33	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.unipa.gr/wp-content/themes/bridge/ (from https://www.unipa.gr/wp-content/themes/bridge/js/default_dynamic_callback.php?ver=6.7.2)
 
-14:32:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-gia-proslipsi-se-theseis-me-kathestos-pliroys-i-merikis-apascholisis-entetalmenon-didaskonton-me-symvasi-ergasias-idiotikoy-dikaioy-orismenoy-chronoy-gia-to-earino-examino-toy-akadimaikoy-2%2F (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-gia-proslipsi-se-theseis-me-kathestos-pliroys-i-merikis-apascholisis-entetalmenon-didaskonton-me-symvasi-ergasias-idiotikoy-dikaioy-orismenoy-chronoy-gia-to-earino-examino-toy-akadimaikoy-2/)
+14:32:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-gia-proslipsi-se-theseis-me-kathestos-pliroys-i-merikis-apascholisis-entetalmenon-didaskonton-me-symvasi-ergasias-idiotikoy-dikaioy-orismenoy-chronoy-gia-to-earino-examino-toy-akadimaikoy-2%2F (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-gia-proslipsi-se-theseis-me-kathestos-pliroys-i-merikis-apascholisis-entetalmenon-didaskonton-me-symvasi-ergasias-idiotikoy-dikaioy-orismenoy-chronoy-gia-to-earino-examino-toy-akadimaikoy-2/)
 
 14:32:33	Warning: 	Moved Permanently for https://www.unipa.gr/?p=85079
 
@@ -4670,23 +4670,23 @@ https://www.unipa.grhttps://www.unipa.gr
 
 14:32:33	Warning: 	File has moved from https://www.unipa.gr/?p=85021 to https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-sto-panepistimio-dytikis-attikis-3/
 
-14:32:33	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-theseon%2Fdimosia-prosklisi-gia-tin-plirosi-tis-thesis-ektelestikoy-dieythynti-epi-thiteia-toy-geoponikoy-panepistimioy-athinon%2F (from https://www.unipa.gr/prokiryxeis-theseon/dimosia-prosklisi-gia-tin-plirosi-tis-thesis-ektelestikoy-dieythynti-epi-thiteia-toy-geoponikoy-panepistimioy-athinon/)
+14:32:33	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-theseon%2Fdimosia-prosklisi-gia-tin-plirosi-tis-thesis-ektelestikoy-dieythynti-epi-thiteia-toy-geoponikoy-panepistimioy-athinon%2F (from https://www.unipa.gr/prokiryxeis-theseon/dimosia-prosklisi-gia-tin-plirosi-tis-thesis-ektelestikoy-dieythynti-epi-thiteia-toy-geoponikoy-panepistimioy-athinon/)
 
-14:32:33	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-29%2F (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-29/)
+14:32:33	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-29%2F (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-29/)
 
-14:32:33	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-29%2F&format=xml (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-29/)
+14:32:33	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-29%2F&format=xml (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-29/)
 
-14:32:33	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-eklogon-gia-tin-anadeixi-dieythynti-toy-ergastirioy-me-titlo-ergastirio-igesias-kai-kainotomias-i-k-the-leadership-innovation-laboratory-l-i-lab-stin%2F (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-eklogon-gia-tin-anadeixi-dieythynti-toy-ergastirioy-me-titlo-ergastirio-igesias-kai-kainotomias-i-k-the-leadership-innovation-laboratory-l-i-lab-stin/)
+14:32:33	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-eklogon-gia-tin-anadeixi-dieythynti-toy-ergastirioy-me-titlo-ergastirio-igesias-kai-kainotomias-i-k-the-leadership-innovation-laboratory-l-i-lab-stin%2F (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-eklogon-gia-tin-anadeixi-dieythynti-toy-ergastirioy-me-titlo-ergastirio-igesias-kai-kainotomias-i-k-the-leadership-innovation-laboratory-l-i-lab-stin/)
 
-14:32:33	Error: 	"" (502) after 2 retries at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-28%2F (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-28/)
+14:32:33	Error: 	"" (502) after 2 retries at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-28%2F (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-28/)
 
-14:32:33	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-28%2F&format=xml (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-28/)
+14:32:33	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-28%2F&format=xml (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-28/)
 
-14:32:33	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-680-t-g-01-03-2024%2F&format=xml (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-680-t-g-01-03-2024/)
+14:32:33	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-680-t-g-01-03-2024%2F&format=xml (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-680-t-g-01-03-2024/)
 
 14:32:33	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.unipa.gr/wp-json/wp/v2/posts/84522 (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-521-t-g-13-02-2024/)
 
-14:32:33	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-521-t-g-13-02-2024%2F&format=xml (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-521-t-g-13-02-2024/)
+14:32:33	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fprokiryxeis-theseon%2Fprokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-521-t-g-13-02-2024%2F&format=xml (from https://www.unipa.gr/prokiryxeis-theseon/prokiryxi-plirosis-theseon-melon-didaktikoy-ereynitikoy-prosopikoy-d-e-p-toy-panepistimioy-dytikis-attikis-fek-521-t-g-13-02-2024/)
 
 14:32:33	Warning: 	Moved Permanently for https://www.unipa.gr/?p=84379
 
@@ -4702,7 +4702,7 @@ https://www.unipa.grhttps://www.unipa.gr
 
 14:32:40	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/?p=78692 (from https://www.unipa.gr/anadeixi-symvoylioy-dioikisis-pada/fek-sygkrotisis-toy-symvoylioy-dioikisis-toy-panepistimioy-dytikis-attikis-307-3-04-2023/)
 
-14:32:40	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fanadeixi-symvoylioy-dioikisis-pada%2Ffek-sygkrotisis-toy-symvoylioy-dioikisis-toy-panepistimioy-dytikis-attikis-307-3-04-2023%2F (from https://www.unipa.gr/anadeixi-symvoylioy-dioikisis-pada/fek-sygkrotisis-toy-symvoylioy-dioikisis-toy-panepistimioy-dytikis-attikis-307-3-04-2023/)
+14:32:40	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fanadeixi-symvoylioy-dioikisis-pada%2Ffek-sygkrotisis-toy-symvoylioy-dioikisis-toy-panepistimioy-dytikis-attikis-307-3-04-2023%2F (from https://www.unipa.gr/anadeixi-symvoylioy-dioikisis-pada/fek-sygkrotisis-toy-symvoylioy-dioikisis-toy-panepistimioy-dytikis-attikis-307-3-04-2023/)
 
 14:32:40	Warning: 	Moved Permanently for https://www.unipa.gr/?p=77089
 
@@ -4750,7 +4750,7 @@ https://www.unipa.grhttps://www.unipa.gr
 
 14:32:51	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/wp/v2/tribe_events/52222 (from https://www.unipa.gr/event/diepistimoniko-synedrio-athens-calls-athens-man-and-his-creations/)
 
-14:32:52	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fevent%2Fdiepistimoniko-synedrio-athens-calls-athens-man-and-his-creations%2F (from https://www.unipa.gr/event/diepistimoniko-synedrio-athens-calls-athens-man-and-his-creations/)
+14:32:52	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fevent%2Fdiepistimoniko-synedrio-athens-calls-athens-man-and-his-creations%2F (from https://www.unipa.gr/event/diepistimoniko-synedrio-athens-calls-athens-man-and-his-creations/)
 
 14:32:55	Warning: 	Moved Permanently for https://www.unipa.gr/?p=51583
 
@@ -4762,7 +4762,7 @@ https://www.unipa.grhttps://www.unipa.gr
 
 14:32:57	Warning: 	File has moved from https://www.unipa.gr/?p=28035 to https://www.unipa.gr/event/33o-synedrio-i-fysikotherapeia-se-oles-tis-vathmides-frontidas-ygeias/
 
-14:32:57	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fevent%2F33o-synedrio-i-fysikotherapeia-se-oles-tis-vathmides-frontidas-ygeias%2F (from https://www.unipa.gr/event/33o-synedrio-i-fysikotherapeia-se-oles-tis-vathmides-frontidas-ygeias/)
+14:32:57	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fevent%2F33o-synedrio-i-fysikotherapeia-se-oles-tis-vathmides-frontidas-ygeias%2F (from https://www.unipa.gr/event/33o-synedrio-i-fysikotherapeia-se-oles-tis-vathmides-frontidas-ygeias/)
 
 14:32:57	Warning: 	Moved Permanently for https://www.unipa.gr/?p=27201
 
@@ -4878,15 +4878,15 @@ https://www.unipa.grhttps://www.unipa.gr
 
 14:36:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/?p=78692 (from https://www.unipa.gr/anadeixi-symvoylioy-dioikisis-pada/fek-sygkrotisis-toy-symvoylioy-dioikisis-toy-panepistimioy-dytikis-attikis-307-3-04-2023/)
 
-14:36:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fanadeixi-symvoylioy-dioikisis-pada%2Ffek-sygkrotisis-toy-symvoylioy-dioikisis-toy-panepistimioy-dytikis-attikis-307-3-04-2023%2F (from https://www.unipa.gr/anadeixi-symvoylioy-dioikisis-pada/fek-sygkrotisis-toy-symvoylioy-dioikisis-toy-panepistimioy-dytikis-attikis-307-3-04-2023/)
+14:36:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fanadeixi-symvoylioy-dioikisis-pada%2Ffek-sygkrotisis-toy-symvoylioy-dioikisis-toy-panepistimioy-dytikis-attikis-307-3-04-2023%2F (from https://www.unipa.gr/anadeixi-symvoylioy-dioikisis-pada/fek-sygkrotisis-toy-symvoylioy-dioikisis-toy-panepistimioy-dytikis-attikis-307-3-04-2023/)
 
 14:36:18	Warning: 	Moved Permanently for https://www.unipa.gr/?p=76238
 
 14:36:18	Warning: 	File has moved from https://www.unipa.gr/?p=76238 to https://www.unipa.gr/announcements/diethnis-dimosia-prosklisi-gia-tin-anadeixi-ton-exoterikon-melon-toy-symvoylioy-dioikisis-toy-panepistimioy-dytikis-attikis/
 
-14:36:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fannouncements%2Fdiethnis-dimosia-prosklisi-gia-tin-anadeixi-ton-exoterikon-melon-toy-symvoylioy-dioikisis-toy-panepistimioy-dytikis-attikis%2F (from https://www.unipa.gr/announcements/diethnis-dimosia-prosklisi-gia-tin-anadeixi-ton-exoterikon-melon-toy-symvoylioy-dioikisis-toy-panepistimioy-dytikis-attikis/)
+14:36:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fannouncements%2Fdiethnis-dimosia-prosklisi-gia-tin-anadeixi-ton-exoterikon-melon-toy-symvoylioy-dioikisis-toy-panepistimioy-dytikis-attikis%2F (from https://www.unipa.gr/announcements/diethnis-dimosia-prosklisi-gia-tin-anadeixi-ton-exoterikon-melon-toy-symvoylioy-dioikisis-toy-panepistimioy-dytikis-attikis/)
 
-14:36:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fannouncements%2Fdiethnis-dimosia-prosklisi-gia-tin-anadeixi-ton-exoterikon-melon-toy-symvoylioy-dioikisis-toy-panepistimioy-dytikis-attikis%2F&format=xml (from https://www.unipa.gr/announcements/diethnis-dimosia-prosklisi-gia-tin-anadeixi-ton-exoterikon-melon-toy-symvoylioy-dioikisis-toy-panepistimioy-dytikis-attikis/)
+14:36:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fannouncements%2Fdiethnis-dimosia-prosklisi-gia-tin-anadeixi-ton-exoterikon-melon-toy-symvoylioy-dioikisis-toy-panepistimioy-dytikis-attikis%2F&format=xml (from https://www.unipa.gr/announcements/diethnis-dimosia-prosklisi-gia-tin-anadeixi-ton-exoterikon-melon-toy-symvoylioy-dioikisis-toy-panepistimioy-dytikis-attikis/)
 
 14:36:18	Warning: 	Moved Permanently for https://www.unipa.gr/?p=55106
 
@@ -4894,7 +4894,7 @@ https://www.unipa.grhttps://www.unipa.gr
 
 14:36:21	Error: 	"Not Found" (404) at link https://www.unipa.gr/events/category/conferences-seminars/month/page/2/ (from https://www.unipa.gr/events/category/conferences-seminars/month/)
 
-14:36:21	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fevent%2F33o-synedrio-i-fysikotherapeia-se-oles-tis-vathmides-frontidas-ygeias%2F (from https://www.unipa.gr/event/33o-synedrio-i-fysikotherapeia-se-oles-tis-vathmides-frontidas-ygeias/)
+14:36:21	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fevent%2F33o-synedrio-i-fysikotherapeia-se-oles-tis-vathmides-frontidas-ygeias%2F (from https://www.unipa.gr/event/33o-synedrio-i-fysikotherapeia-se-oles-tis-vathmides-frontidas-ygeias/)
 
 14:36:21	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/?p=22392 (from https://www.unipa.gr/event/3rd-academic-university-student-conference-astucon-2019/)
 
@@ -5024,9 +5024,9 @@ https://www.unipa.grhttps://www.unipa.gr
 
 14:41:47	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.unipa.gr/?p=78692 (from https://www.unipa.gr/anadeixi-symvoylioy-dioikisis-pada/fek-sygkrotisis-toy-symvoylioy-dioikisis-toy-panepistimioy-dytikis-attikis-307-3-04-2023/)
 
-14:41:47	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fanadeixi-symvoylioy-dioikisis-pada%2Ffek-sygkrotisis-toy-symvoylioy-dioikisis-toy-panepistimioy-dytikis-attikis-307-3-04-2023%2F (from https://www.unipa.gr/anadeixi-symvoylioy-dioikisis-pada/fek-sygkrotisis-toy-symvoylioy-dioikisis-toy-panepistimioy-dytikis-attikis-307-3-04-2023/)
+14:41:47	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fanadeixi-symvoylioy-dioikisis-pada%2Ffek-sygkrotisis-toy-symvoylioy-dioikisis-toy-panepistimioy-dytikis-attikis-307-3-04-2023%2F (from https://www.unipa.gr/anadeixi-symvoylioy-dioikisis-pada/fek-sygkrotisis-toy-symvoylioy-dioikisis-toy-panepistimioy-dytikis-attikis-307-3-04-2023/)
 
-14:41:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.uniwa.gr%2Fannouncements%2Fdiethnis-dimosia-prosklisi-gia-tin-anadeixi-ton-exoterikon-melon-toy-symvoylioy-dioikisis-toy-panepistimioy-dytikis-attikis%2F (from https://www.unipa.gr/announcements/diethnis-dimosia-prosklisi-gia-tin-anadeixi-ton-exoterikon-melon-toy-symvoylioy-dioikisis-toy-panepistimioy-dytikis-attikis/)
+14:41:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.unipa.gr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unipa.gr%2Fannouncements%2Fdiethnis-dimosia-prosklisi-gia-tin-anadeixi-ton-exoterikon-melon-toy-symvoylioy-dioikisis-toy-panepistimioy-dytikis-attikis%2F (from https://www.unipa.gr/announcements/diethnis-dimosia-prosklisi-gia-tin-anadeixi-ton-exoterikon-melon-toy-symvoylioy-dioikisis-toy-panepistimioy-dytikis-attikis/)
 
 14:41:47	Error: 	"Not Found" (404) at link https://www.unipa.gr/wp-json/wp/v2/users/49 (from https://www.unipa.gr/author/dnna/)
 
