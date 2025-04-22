@@ -134,8 +134,8 @@ function showContactMap() {
 }
 
 var no_ajax_pages = [];
-var qode_root = 'https://www.uniwa.gr/';
-var theme_root = 'https://www.uniwa.gr/wp-content/themes/bridge/';
+var qode_root = 'https://www.unipa.gr/';
+var theme_root = 'https://www.unipa.gr/wp-content/themes/bridge/';
 var header_style_admin = "dark";
 if(typeof no_ajax_obj !== 'undefined') {
 	no_ajax_pages = no_ajax_obj.no_ajax_pages;
