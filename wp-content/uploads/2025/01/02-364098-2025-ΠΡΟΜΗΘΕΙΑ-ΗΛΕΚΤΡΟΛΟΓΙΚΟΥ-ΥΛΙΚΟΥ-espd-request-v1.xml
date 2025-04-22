@@ -11,7 +11,7 @@
     <ubl-cbc:ContractFolderID schemeAgencyID="TeD">Α/Α ΕΣΗΔΗΣ: 364098</ubl-cbc:ContractFolderID>
     <ubl-cac:ContractingParty>
         <ubl-cac:Party>
-            <ubl-cbc:WebsiteURI>www.uniwa.gr</ubl-cbc:WebsiteURI>
+            <ubl-cbc:WebsiteURI>www.unipa.gr</ubl-cbc:WebsiteURI>
             <ubl-cac:PartyIdentification>
                 <ubl-cbc:ID schemeAgencyID="EU-COM-GROW">997018536</ubl-cbc:ID>
             </ubl-cac:PartyIdentification>

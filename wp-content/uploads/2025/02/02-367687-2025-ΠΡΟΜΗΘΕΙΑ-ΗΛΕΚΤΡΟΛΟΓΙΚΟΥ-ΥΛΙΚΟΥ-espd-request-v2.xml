@@ -14,7 +14,7 @@
     <cbc:QualificationApplicationTypeCode listID="QualificationApplicationType" listAgencyID="EU-COM-GROW" listVersionID="2.1.0">REGULATED</cbc:QualificationApplicationTypeCode>
     <cac:ContractingParty>
         <cac:Party>
-            <cbc:WebsiteURI>www.uniwa.gr</cbc:WebsiteURI>
+            <cbc:WebsiteURI>www.unipa.gr</cbc:WebsiteURI>
             <cac:PartyIdentification>
                 <cbc:ID schemeAgencyID="EU-COM-GROW">997018536</cbc:ID>
             </cac:PartyIdentification>
